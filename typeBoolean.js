@@ -1,5 +1,5 @@
 
-
+/*
 const primeiroNumero = 5;
 const segundoNumero = 5;
 let cadastroAtivo = false;
